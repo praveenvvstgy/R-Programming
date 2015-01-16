@@ -1,6 +1,4 @@
----
-output: html_document
----
+
 #R Programming
 ----
 My solutions to the assignments of [**R Programming**](https://www.coursera.org/course/rprog) Course on Coursera.
