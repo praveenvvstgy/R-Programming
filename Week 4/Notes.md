@@ -44,5 +44,3 @@ sample(1:10, replace = TRUE) # with replacement
 + we can use `system.time()`
 + `Rprof()` starts the R profiler, `summaryRprof()` summarizes the output from `Rprof()`
 + Don't use the above both together
-
-q
